@@ -1,0 +1,9 @@
+c:\users\kavindu\documents\visual studio 2015\Projects\OSProject\OSProject\bin\Debug\OSProject.exe.config
+c:\users\kavindu\documents\visual studio 2015\Projects\OSProject\OSProject\obj\Debug\OSProject.csprojResolveAssemblyReference.cache
+c:\users\kavindu\documents\visual studio 2015\Projects\OSProject\OSProject\obj\Debug\OSProject.Form1.resources
+c:\users\kavindu\documents\visual studio 2015\Projects\OSProject\OSProject\obj\Debug\OSProject.Properties.Resources.resources
+c:\users\kavindu\documents\visual studio 2015\Projects\OSProject\OSProject\obj\Debug\OSProject.csproj.GenerateResource.Cache
+c:\users\kavindu\documents\visual studio 2015\Projects\OSProject\OSProject\bin\Debug\OSProject.exe
+c:\users\kavindu\documents\visual studio 2015\Projects\OSProject\OSProject\bin\Debug\OSProject.pdb
+c:\users\kavindu\documents\visual studio 2015\Projects\OSProject\OSProject\obj\Debug\OSProject.exe
+c:\users\kavindu\documents\visual studio 2015\Projects\OSProject\OSProject\obj\Debug\OSProject.pdb
